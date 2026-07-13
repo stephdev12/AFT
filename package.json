@@ -1,0 +1,8 @@
+{
+  "name": "african-talents",
+  "version": "1.0.0",
+  "description": "African Talents — Site officiel",
+  "scripts": {
+    "start": "npx serve public"
+  }
+}
